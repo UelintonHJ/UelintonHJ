@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Olá, me chamo  Uelinton Janke!
 
-<!--
-**UelintonHJ/UelintonHJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor Front-End em formação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Em busca de oportunidades como estagiário Front-End
+
+Estou buscando me especializar na linguagem **JavaScript** e no framework **React**
+Também gosto de desafios, então busco projetos com que eu possa obter novos conhecimentos
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- HTML5 / CSS3 / JavaScript
+- React
+- Git e GitHub
+- VSCode
+
+---
+
+## 🔗 Onde me encontrar
+- 💼 [LinkedIn](www.linkedin.com/in/uelinton-janke)
+- 📫 Email: uelinton.h@gmail.com
+
+A cada passo dado,
+nesta soma de pequenas coisas,
+permanceço em constante evolução,
+progredindo rumo à minha realização.
+
+✨ Obrigado por visitar meu perfil!
