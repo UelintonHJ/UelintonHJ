@@ -21,24 +21,27 @@ Transformo estudo em projetos reais - e cada projeto no meu GitHub conta um peda
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UelintonHJ&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
-## 🎯 Objetivo atual
-
-Atuar como **estagiário Front-End**, aprendendo diariamente, entregando valor real e evoluindo minhas habilidades profissionais.
-
 ---
 
-## 📫 Como me encontrar
+## 🎯 Objetivo atual
 
-- 💼 LinkedIn: www.linkedin.com/in/uelinton-janke
-- 📧 Email: uelinton.h@gmail.com
+Conquistar minha primeira vaga como **Estagiário Front-End**, ampliando conhecimento e criando projetos cada vez mais profissionais.
 
 ---
 
 ## ✨ Sobre mim
 
-Gosto de aprender, criar e experimentar - seja no código, nos meus projetos pessoais ou nas músicas que produzo.
+Sou movido por criatividade - gosto de escrever códigos, construír projetos e tenho a produção musical como hoobie.
 
-Acredito que **constância + criatividade = evolução**.
+Acredito que evoluir é questão de disciplina, curiosidade e boa energia.
+
+---
+
+## 📫 Contato
+
+- 📧 Email: uelinton.h@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/uelinton-janke
+
 
 
 
