@@ -7,7 +7,7 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas** e construindo me
 ## 🚀 Tecnologias que uso no dia a dia
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
+HTML5, CSS3
 </div>
 
 ---
@@ -15,7 +15,8 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas** e construindo me
 
 Aqui estão alguns projetos que representam meu estilo e minhas habilidades:
 
-🔹 [**Portfólio Pessoal**](https://portfolio-uelinton.vercel.app/) - Apresenta minhas habilidades, projetos e contato
-🔹 [**Ignite Coffee**](ignite-coffee-landing-page.vercel.app) - Landing page moderna, focado em layout responsivo, tipografia consistente e boas práticas de estilização
+- [**Portfólio Pessoal**](https://portfolio-uelinton.vercel.app/) - Apresenta minhas habilidades, projetos e contato
+- [**Ignite Coffee**](ignite-coffee-landing-page.vercel.app) - Landing page moderna, focado em layout responsivo, tipografia consistente e boas práticas de estilização
+- [**devlinks**](devlinks-responsivo.vercel.app/) - Projeto responsivo inspirado no Linktree
 
 
