@@ -26,7 +26,6 @@ Transformo estudo em projetos reais - e cada projeto no meu GitHub conta um peda
 
 <!-- Outras -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 
 </div>
 
