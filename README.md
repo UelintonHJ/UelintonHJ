@@ -1,4 +1,6 @@
-# 👋 Olá! Eu sou o Uelinton Janke
+# 🌀 Hey! Eu sou o Uelinton Janke
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRhbjlvenB2eTNqNWkydXhhdng5N3IzYzRpdWE1anFzbG8zZ3MwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI9xj49ehuAGLQY/giphy.gif" width="200" align="right">
 
 Sou um desenvolvedor **Front-End** em evolução, apaixonado por criar interfaces limpas, responsivas e com foco total na experiência do usuário. 
 Atualmente estudando **Análise e Desenvolvimento de Sistemas** e construindo meu portfólio com projetos práticos e bem organizados.
