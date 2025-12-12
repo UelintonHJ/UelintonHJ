@@ -7,7 +7,7 @@ Atualmente estudando **Análise e Desenvolvimento de Sistemas** e construindo me
 ## 🚀 Tecnologias que uso no dia a dia
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-HTML5, CSS3
+HTML5, CSS3 e JavaScript
 </div>
 
 ---
@@ -15,8 +15,12 @@ HTML5, CSS3
 
 Aqui estão alguns projetos que representam meu estilo e minhas habilidades:
 
-- [**Portfólio Pessoal**](https://portfolio-uelinton.vercel.app/) - Apresenta minhas habilidades, projetos e contato
-- [**Ignite Coffee**](ignite-coffee-landing-page.vercel.app) - Landing page moderna, focado em layout responsivo, tipografia consistente e boas práticas de estilização
-- [**devlinks**](devlinks-responsivo.vercel.app/) - Projeto responsivo inspirado no Linktree
+- [**Portfólio Pessoal**](https://portfolio-uelinton.vercel.app/)
+ Site criado para apresentar minhas habilidades como desenvolvedor front-end, meus projetos e minha trajetória profissional. Design moderno, responsivo e focado em recrutadores.
+[Repositório](https://github.com/UelintonHJ/portfolio-uelinton)
+
+- [**Ignite Coffee**](ignite-coffee-landing-page.vercel.app) - Landing page moderna, com layout responsivo, tipografia consistente e boas práticas de estilização
+- [**DevLinks**](devlinks-responsivo.vercel.app/) - Projeto responsivo, com layout limpo e funcional
+- [**Weather Now**](weather-now-jade-seven.vercel.app/) - Aplicativo de clima com
 
 
