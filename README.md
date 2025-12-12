@@ -1,5 +1,5 @@
 # 🌀 Hey! Eu sou o Uelinton Janke
-<div style="width: 500; display: flex; justify-content: center;">
+<div style="width: 500; display: flex; justify-content: center; align-items: center;">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRhbjlvenB2eTNqNWkydXhhdng5N3IzYzRpdWE1anFzbG8zZ3MwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI9xj49ehuAGLQY/giphy.gif" width="250" align="center">
 </div>
 
