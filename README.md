@@ -2,56 +2,23 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRhbjlvenB2eTNqNWkydXhhdng5N3IzYzRpdWE1anFzbG8zZ3MwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI9xj49ehuAGLQY/giphy.gif" width="200" align="right">
 
-Sou um desenvolvedor **Front-End** em evolução, apaixonado por criar interfaces limpas, responsivas e com foco total na experiência do usuário. 
-Atualmente estudando **Análise e Desenvolvimento de Sistemas** e construindo meu portfólio com projetos práticos e bem organizados.
+Desenvolvedor **Front-End** em construção e apaixonado por criar interfaces modernas, responsivas e com uma pegada criativa.
+Transformo estudo em projetos reais - e cada projeto no meu GitHub conta um pedaço da minha evolução.
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+## 🎨 Tech Stack
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-HTML5, CSS3 e JavaScript
+
 </div>
 
 ---
 
-## 📌 Projetos em destaque
+## 📊 GitHub Stats
 
-Aqui estão alguns projetos que representam meu estilo e minhas habilidades:
-
-- [**Portfólio Pessoal**](https://portfolio-uelinton.vercel.app/)
-[<> Code](https://github.com/UelintonHJ/portfolio-uelinton)
-
-Site criado para apresentar minhas habilidades como desenvolvedor front-end, meus projetos e minha trajetória profissional. Design moderno, responsivo e focado em recrutadores.
-
-- [**Ignite Coffee**](ignite-coffee-landing-page.vercel.app)
-[<> Code](https://github.com/UelintonHJ/ignite-coffee)
-
-Landing page moderna construída com HTML5 e CSS3. Projeto focado em layout responsivo, tipografia consistente e boas práticas de estilização.
-
-- [**DevLinks**](devlinks-responsivo.vercel.app/)
-[<> Code](https://github.com/UelintonHJ/devlinks)
-
-Projeto responsivo inspirado no Linktree. Desenvolvido com HTML, CSS e JavaScript para organizar links, perfis sociais e informações pessoais em um layout limpo e funcional.
-
-- [**Weather Now**](weather-now-jade-seven.vercel.app/)
-[<> Code](https://github.com/UelintonHJ/weather-now)
-
-Aplicativo de clima com API OpenWeather, dark mode, ícones animados e PWA.
-
-- [**Portfólio Alex Moretti**](portfolio-alex-moretti.vercel.app)
-[<> Code](https://github.com/UelintonHJ/Portfolio-alex-moretti)
-  
-Landing page totalmente autoral criada como estudo de UI/UX e desenvolvimento front-end responsivo. Projeto focado em estética, organização e boas práticas com Bootstrap.
-
-- [**Organo**](organo-alura-react-five.vercel.app/)
-[<> Code](https://github.com/UelintonHJ/organo)
-  
-Aplicação React desenvolvida com componentes reutilizáveis e estado compartilhado. Projeto focado na base do React, organização de pastas e boas práticas de componentização.
-
-*Você também encontra outros projetos em meu repositório.*
-
----
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<img src="https://github-readme-stats.vercel.app/api?username=UelintonHJ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180em" />
 
 ## 🎯 Objetivo atual
 
